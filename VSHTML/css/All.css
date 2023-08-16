@@ -1,0 +1,68 @@
+
+#Header{
+    position: relative;
+    left: 11%;
+    width: 1050px;
+    height: 250px;
+}
+#ColunaLeft{
+    background-color: rgb(65, 19, 19);
+    width: 345px;
+    height: 210px;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.801);
+    background-size: 75%;
+}
+h1{
+    position: absolute;
+    top: 28%;
+    opacity: 40%;
+    background-color: gray;
+    color: white;
+}
+#Coluna{
+    position: absolute;
+    top: 39%;
+    left: 35%;
+    background-color: rgba(219, 171, 152, 0.541);
+    width: 700px;
+    font-style: italic;
+}
+#PriemriaImg{
+    position: relative;
+    background-position: center center;
+    width: 345px;
+    height: 200px;
+    left: 0%;
+}
+#WholeTable{
+    background-color: rgb(104, 102, 102);
+    position: relative;
+    width: 348px;
+    left: 11%;
+ }
+#NewBlame{
+    width: 345px;
+    height: 210px;
+}
+#TextImg{
+    position: relative;
+    left: 30%;
+    width: 290px;
+    height: 210px;
+}
+nav{
+    background-color:mistyrose;
+    font-size: large;
+    position: relative;
+    top: 1%;
+}
+#FirstBlame{
+    width: 345px;
+    height: 210px;
+}
+#TitlleText{
+    font-size: medium;
+    font-style: italic;
+}
